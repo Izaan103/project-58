@@ -1,0 +1,56 @@
+body{
+  text-align:center;
+  background-color:yellowgreen;
+}
+#image1{
+  width:400px;
+}
+#paragraph1{
+  background-color:white;
+  color:black;
+  font-size:18px;
+  margin-top:-4px;
+  text-align:center;
+  width:400px;
+}
+#image2{
+  width:400px;
+}
+#paragraph2{
+  background-color:white;
+  color:black;
+  font-size:18px;
+  margin-top:-4px;
+  text-align:center;
+  width:400px;
+}
+#image3{
+  width:400px;
+}
+#paragraph3{
+  background-color:white;
+  color:black;
+  font-size:18px;
+  margin-top:-4px;
+  text-align:center;
+  width:400px;
+}
+#image4{
+  width:400px;
+}
+#paragraph4{
+  background-color:white;
+  color:black;
+  font-size:18px;
+  margin-top:-4px;
+  text-align:center;
+  width:400px;
+}
+.image-section{
+  display:flex;
+  justify-content:center;
+}
+.section-style{
+  margin-right:25px;
+  margin-left:25px;
+}
